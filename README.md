@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Actividad 001 - HTML / CSS
 
 *INSTRUCCIONES*:
@@ -556,3 +557,6 @@ Corrige los errores y además modifica el código para que sólo al etiqueta h1 
 </body>
 </html>
 ~~~
+=======
+# Proyecto-Ruby
+>>>>>>> c392ae95de9af62ab136cbe37f1fe82fd56dce5a
